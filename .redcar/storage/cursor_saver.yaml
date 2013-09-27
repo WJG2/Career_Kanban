@@ -1,0 +1,27 @@
+--- 
+cursor_positions: 
+  - :path: config/database.yml
+    :cursor_offset: 542
+    :timestamp: 2013-09-25 18:23:08 -07:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 302
+    :timestamp: 2013-09-26 17:24:52 -07:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-26 17:30:10 -07:00
+  - :path: app/views/welcome/index.html.erb
+    :cursor_offset: 20
+    :timestamp: 2013-09-26 17:27:44 -07:00
+  - :path: app/controllers/welcome_controller.rb
+    :cursor_offset: 84
+    :timestamp: 2013-09-26 17:30:43 -07:00
+  - :path: app/views/welcome/bammo.html.erb
+    :cursor_offset: 693
+    :timestamp: 2013-09-26 17:43:41 -07:00
+  - :path: app/helpers/welcome_helper.rb
+    :cursor_offset: 0
+    :timestamp: 2013-09-26 17:27:03 -07:00
+  - :path: config.ru
+    :cursor_offset: 0
+    :timestamp: 2013-09-25 18:23:08 -07:00
+files_to_retain: 0

@@ -1,0 +1,9 @@
+--- 
+open_files: 
+  - app/views/layouts/application.html.erb
+  - config/routes.rb
+  - app/views/welcome/index.html.erb
+  - app/controllers/welcome_controller.rb
+  - app/views/welcome/bammo.html.erb
+  - app/helpers/welcome_helper.rb
+  - config.ru

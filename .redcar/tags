@@ -1,0 +1,12 @@
+1380298937
+Application	/Users/WJG2/career_kanban/config/application.rb	  class Application 
+ApplicationController	/Users/WJG2/career_kanban/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/Users/WJG2/career_kanban/app/helpers/application_helper.rb	module ApplicationHelper
+CareerKanban	/Users/WJG2/career_kanban/config/application.rb	module CareerKanban
+TestCase	/Users/WJG2/career_kanban/test/test_helper.rb	class ActiveSupport::TestCase
+WelcomeController	/Users/WJG2/career_kanban/app/controllers/welcome_controller.rb	class WelcomeController 
+WelcomeControllerTest	/Users/WJG2/career_kanban/test/controllers/welcome_controller_test.rb	class WelcomeControllerTest 
+WelcomeHelper	/Users/WJG2/career_kanban/app/helpers/welcome_helper.rb	module WelcomeHelper
+WelcomeHelperTest	/Users/WJG2/career_kanban/test/helpers/welcome_helper_test.rb	class WelcomeHelperTest 
+bammo	/Users/WJG2/career_kanban/app/controllers/welcome_controller.rb	  def bammo
+index	/Users/WJG2/career_kanban/app/controllers/welcome_controller.rb	  def index
